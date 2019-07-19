@@ -4,5 +4,4 @@ server.port=2244
 # allow for RefreshScope
 management.endpoints.web.exposure.include=*
 
-# the harinee-m-random-quote-service will use this as the random quote service that it serves up
-quote="Programs must be written for people to read, and only incidentally for machines to execute. - Hal Ableson"
+
